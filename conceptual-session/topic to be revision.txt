@@ -1,0 +1,21 @@
+
+// ---- Core Concepts ----//
+
+Inroduction to ES6
+
+1. var let const
+2. scopes in javascript
+3. templates string
+4. ternary operator
+5. array spreading
+6. object spreading
+7. object accessing
+8. optional chaining of object
+9. arrow function
+10. function with default parameters
+11. arrow for each, Map, Filter, Find Function
+
+// ---- Problem Solving ----//
+
+1. Find SCIC student using Filter
+2. Find Stable Jamai using Filter Method
